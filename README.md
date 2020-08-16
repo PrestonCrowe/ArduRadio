@@ -11,7 +11,7 @@ This is just some notes/warnigs I have.
 * Suggestions and/or modifications are gladly accepted!
 * <b> I am, in no way a profesional, so my designs will probably not work perfectly. </b>
 * I only know and use EAGLE, so I won't post any other file types.
-* I never made a BOM for v1 and v2, but they are labled and I can make one if asked.
+* I never made a BOM for v1 and v2, but they are (potentially) labled and I can make one if asked.
 * If v3 actually works when done, I might make a guide on Instuctables.
 
 ### Thanks for your time, and happy making!
