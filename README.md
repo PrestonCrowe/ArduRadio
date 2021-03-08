@@ -1,2 +1,2 @@
 # ArduRadio
-Some time soon, I want to overhaul this project like I did with my macro-keypad. I won't now, but hopefully soon.
+Some time in the future I want to overhaul this project like I did with my macro-keypad project, but I won't for now due to time constraints, and I will try to get around to it soon.
